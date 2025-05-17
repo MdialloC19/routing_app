@@ -6,7 +6,7 @@ This project provides comprehensive solutions for vehicle routing, delivery sche
 
 ## 🌐 Related Projects
 
-- [Route Optimization iOS App](https://github.com/endmr11/routing_app/tree/main/routing_backend](https://github.com/endmr11/routing_app_ios))
+- [Route Optimization iOS App](https://github.com/endmr11/routing_app_ios)
 
 ## ✨ Features
 
